@@ -9,8 +9,8 @@ I’m a student at SRM University with a passion for **Cyber Security**, technol
 
 **Interests**: Cyber Security, AI
 
-**“The only way to do great work is to love what you do.” – Steve Jobs
-**
+**“The only way to do great work is to love what you do.” – Steve Jobs**
+
 I’m always looking for opportunities to learn and grow, and I believe that every project is a chance to push the boundaries of what I can achieve.
 
 Feel free to check out my projects, and let's connect to collaborate on meaningful solutions!
