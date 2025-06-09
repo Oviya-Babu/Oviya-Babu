@@ -1,16 +1,17 @@
+**Hello, I'm Oviya** — a passionate B.Tech CSE (Cyber Security) student at SRM University.
+I’m deeply curious about technology and constantly strive to expand my knowledge and capabilities. Driven by a desire to build innovative solutions, I aim to make a real-world impact through every project I take on.
 
-**Hello, I'm Oviya!**
+**Skills & Technologies**
+Languages & Tools:
+Java • Python • HTML • CSS • JavaScript • React • React Native
 
-I’m a student at SRM University pursuing B.Tech CSE - Cyber Security, Exploring technology, constantly striving to expand my knowledge and capabilities. I’m driven by a desire to create innovative solutions that solve real-world problems.
+**Domains:**
+Web Development • App Development • Cyber Security
 
-**Skills & Interests:**
+**Interests**
+Exploring new technologies, creating secure digital solutions, and building full-stack apps that solve real problems.
 
-**Languages & Technologies:** Java, Python, HTML, CSS, JavaScript, React, React Native,  Web Development, App Development, Cyber Security. 
-
-**Interests**: Cyber Security, Web Development, App Development
-
-**“The only way to do great work is to love what you do.” – Steve Jobs**
-
-I’m always looking for opportunities to learn and grow, and I believe that every project is a chance to push the boundaries of what I can achieve.
-
-Feel free to check out my projects, and let's connect to collaborate on meaningful solutions!
+**“The only way to do great work is to love what you do.” – Steve Jobs
+**
+I’m always looking for opportunities to learn and grow. Every project is a stepping stone toward mastering my craft.
+Feel free to check out my repositories, and let's connect to collaborate on something meaningful!
