@@ -1,13 +1,13 @@
 
 **Hello, I'm Oviya!**
 
-I’m a student at SRM University with a passion for **Cyber Security**, technology, constantly striving to expand my knowledge and capabilities. I’m driven by a desire to create innovative solutions that solve real-world problems.
+I’m a student at SRM University pursuing B.Tech CSE - Cyber Security, Exploring technology, constantly striving to expand my knowledge and capabilities. I’m driven by a desire to create innovative solutions that solve real-world problems.
 
 **Skills & Interests:**
 
-**Languages & Technologies I’m Learning:** Java, Python, C++, Cyber Security, Web Development
+**Languages & Technologies:** Java, Python, HTML, CSS, JavaScript, React, React Native,  Web Development, App Development, Cyber Security. 
 
-**Interests**: Cyber Security, AI
+**Interests**: Cyber Security, Web Development, App Development
 
 **“The only way to do great work is to love what you do.” – Steve Jobs**
 
