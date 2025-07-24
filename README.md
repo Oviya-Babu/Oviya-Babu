@@ -1,9 +1,10 @@
-**Hello, I'm Oviya** — a passionate B.Tech CSE (Cyber Security) student at SRM University.
+**Hello, I'm Oviya** — a passionate B.Tech CSE (Cyber Security) student at SRM University | Gssos'25 Open Source Contributor.
 I’m deeply curious about technology and constantly strive to expand my knowledge and capabilities. Driven by a desire to build innovative solutions, I aim to make a real-world impact through every project I take on.
+I'm actively contributing to Open Source through GirlScript Summer of Code (GSSoC'25). Being part of this community allows me to collaborate, learn from experienced developers, and give back by improving real-world projects. Open source helps me grow as a developer, and I’m excited to keep contributing to projects that empower others.
 
 **Skills & Technologies**
 Languages & Tools:
-Java • Python • HTML • CSS • JavaScript • React • React Native
+Java • Python • HTML • CSS • JavaScript • React • React Native 
 
 **Domains:**
 Web Development • App Development • Cyber Security
