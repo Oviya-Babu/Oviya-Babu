@@ -1,18 +1,39 @@
-**Hello, I'm Oviya** — a passionate B.Tech CSE (Cyber Security) student at SRM University.
-I’m deeply curious about technology and constantly strive to expand my knowledge and capabilities. Driven by a desire to build innovative solutions, I aim to make a real-world impact through every project I take on.
+# Hi, I'm Oviya B 👋
 
+B.Tech CSE (Cybersecurity) student at SRM Institute of Science and Technology, passionate about building intelligent and secure systems at the intersection of **Cybersecurity**, **Artificial Intelligence**, and **Agentic AI**.
 
-**Skills & Technologies**
-Languages & Tools:
-Java • Python • C • HTML • JavaScript • CSS • React
+I enjoy understanding how systems work, finding where vulnerabilities emerge, and applying both defensive and adversarial thinking to secure them.
 
-**Domains:**
-Web Development • App Development • Cyber Security
+---
 
-**Interests**
-Exploring new technologies, creating secure digital solutions, and building full-stack apps that solve real problems.
+### 🛠️ Technologies I've Worked With
 
-**“The only way to do great work is to love what you do.”** – Steve Jobs
+**Languages:** Python · Java · C/C++ · JavaScript · React  
+**Cybersecurity:** Threat Intelligence · Phishing Detection · CTF · OSINT · Kali Linux  
+**AI/ML:** LangChain · Hugging Face · RAG Pipeline · Isolation Forest  
+**Tools:** VS Code · IntelliJ IDEA · GitHub · MongoDB · MySQL · Postman · TryHackMe
 
-I’m always looking for opportunities to learn and grow. Every project is a stepping stone toward mastering my craft.
-Feel free to check out my repositories, and let's connect to collaborate on something meaningful!
+---
+
+### 🚀 Projects
+
+- **[PhishNet](https://github.com/Oviya-Babu/PhisNet)** — AI-powered Chrome extension detecting phishing URLs using GPT analysis, RAG pipeline and VirusTotal API
+- **[ShadowSentry](https://github.com/Oviya-Babu/ShadowSentry)** — Dark web threat intelligence platform detecting breach exposure via HIBP API
+- **[AI-Powered BCI Firewall](https://github.com/Oviya-Babu/AI-Powered-BCI-Cybersecurity-Firewall)** *(Ongoing)* — AI security framework protecting Brain–Computer Interface systems using EEG signal processing
+
+---
+
+### 🏆 Achievements
+
+- CAD 2.0 AI Innovation Competition — **Top 10 Finalist** (Mar 2025)
+- Hack the Cosmos 2025, SRM Hackathon — **Top 50** (Apr 2025)
+- Smart India Hackathon 2025 — **Top 250 out of 1000+ teams**
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-oviyab-blue?style=flat&logo=linkedin)](https://linkedin.com/in/oviyab)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Oviya__B-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Oviya_B/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-oviyab2k7-212C42?style=flat&logo=tryhackme)](https://tryhackme.com/p/oviyab2k7)
+[![Email](https://img.shields.io/badge/Email-oviyab2k7@gmail.com-red?style=flat&logo=gmail)](mailto:oviyab2k7@gmail.com)
