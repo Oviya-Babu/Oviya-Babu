@@ -9,8 +9,7 @@ I enjoy understanding how systems work, finding where vulnerabilities emerge, an
 ### 🛠️ Technologies I've Worked With
 
 **Languages:** Python · Java · C/C++ · JavaScript · React  
-**Cybersecurity:** Threat Intelligence · Phishing Detection · CTF · OSINT · Kali Linux  
-**AI/ML:** LangChain · Hugging Face · RAG Pipeline · Isolation Forest  
+**Cybersecurity:** · Phishing Detection · Kali Linux  
 **Tools:** VS Code · IntelliJ IDEA · GitHub · MongoDB · MySQL · Postman · TryHackMe
 
 ---
