@@ -26,8 +26,7 @@ I enjoy understanding how systems work, finding where vulnerabilities emerge, an
 
 - CAD 2.0 AI Innovation Competition — **Top 10 Finalist** (Mar 2025)
 - Hack the Cosmos 2025, SRM Hackathon — **Top 50** (Apr 2025)
-- Smart India Hackathon 2025 — **Top 250 out of 1000+ teams**
-
+- Smart India Hackathon 2025
 ---
 
 ### 📫 Connect with Me
