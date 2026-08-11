@@ -114,15 +114,15 @@ Backend engineering, APIs, architecture, Linux, and infrastructure.
 
 ## A Few Things I've Done
 
-🥇 **Advanced Round 2** — Unisys Innovation Program, Year 17
+🥇 **Advanced Round 2** - Unisys Innovation Program, Year 17
 
-🏆 **Top 50 Finalist** — SheBuilds Chennai × CCCL Hack — Code & Challenge 3.0
+🏆 **Top 50 Finalist** - SheBuilds Chennai × CCCL Hack — Code & Challenge 3.0
 
-🏆 **Top 10 Finalist ** — CAD 2.0 AI Innovation Competition
+🏆 ** Top 10 Finalist ** - CAD 2.0 AI Innovation Competition
 
-🏆 **Top 50** — Hack the Cosmos 2025
+🏆 **Top 50** - Hack the Cosmos 2025
 
-🏆 **Top 75** — St. Joseph's College 24-Hour Hackathon
+🏆 **Top 75** - St. Joseph's College 24-Hour Hackathon
 
 
 ---
@@ -130,11 +130,10 @@ Backend engineering, APIs, architecture, Linux, and infrastructure.
 ## 🔬 Currently Exploring
 
 ```text
+Deep Learning
 AI Security
 Agentic AI Security
-Trustworthy AI
 BCI Security
-Adversarial Thinking
 Secure System Architecture
 Cloud Security
 System Design
