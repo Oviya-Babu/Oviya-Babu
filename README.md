@@ -70,9 +70,6 @@ Backend engineering, APIs, architecture, Linux, and infrastructure.
   <a href="https://tailwindcss.com/">
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   </a>
-  <a href="https://pytorch.org/">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  </a>
   <a href="https://opencv.org/">
     <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white" />
   </a>
@@ -117,17 +114,16 @@ Backend engineering, APIs, architecture, Linux, and infrastructure.
 
 ## A Few Things I've Done
 
-🏆 **Top 50** — SheBuilds Chennai × CCCL Hack — Code & Challenge 3.0
+🥇 **Advanced Round 2** — Unisys Innovation Program, Year 17
 
-🏆 **Top 10** — CAD 2.0 AI Innovation Competition
+🏆 **Top 50 Finalist** — SheBuilds Chennai × CCCL Hack — Code & Challenge 3.0
+
+🏆 **Top 10 Finalist ** — CAD 2.0 AI Innovation Competition
 
 🏆 **Top 50** — Hack the Cosmos 2025
 
-🚀 **Round 2** — Smart India Hackathon 2025
-
 🏆 **Top 75** — St. Joseph's College 24-Hour Hackathon
 
-🥇 **Round 2** — Unisys Innovation Program, Year 17
 
 ---
 
@@ -148,15 +144,6 @@ Devops
 The question I'm currently obsessed with:
 
 > **How do we build intelligent systems that are capable, secure, and trustworthy?**
-
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oviya-Babu&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oviya-Babu&layout=compact&hide_border=true" height="165"/>
-</p>
 
 ---
 
