@@ -116,9 +116,9 @@ Backend engineering, APIs, architecture, Linux, and infrastructure.
 
 🥇 **Advanced Round 2** - Unisys Innovation Program, Year 17
 
-🏆 **Top 50 Finalist** - SheBuilds Chennai × CCCL Hack — Code & Challenge 3.0
+🏆 **Top 50 Finalist** - SheBuilds Chennai × CCCL Hack - Code & Challenge 3.0
 
-🏆 ** Top 10 Finalist ** - CAD 2.0 AI Innovation Competition
+🏆 **Top 10 Finalist** - CAD 2.0 AI Innovation Competition
 
 🏆 **Top 50** - Hack the Cosmos 2025
 
