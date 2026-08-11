@@ -1,188 +1,139 @@
-# Hi, I'm Oviya B 👋
+# Heyyy, I'm Oviya B!✌🏻
 
-### Cybersecurity × Artificial Intelligence × Agentic AI
+### `Cybersecurity × AI × Agentic Systems × Devops`
 
-I'm a **Computer Science Engineering student specializing in Cybersecurity**
-at **SRM Institute of Science and Technology**, passionate about building
-intelligent and secure technological systems.
+> **I build intelligent systems, break assumptions, and figure out how to make them trustworthy.**
 
-My interests lie at the intersection of **Cybersecurity, Artificial
-Intelligence, and Agentic AI**, where I explore how intelligent systems can be
-designed, secured, and applied to real-world problems.
+Computer Science Engineering student specializing in **Cybersecurity at SRM IST**.
 
-I enjoy understanding **how systems work, where vulnerabilities emerge, and
-how they can be protected** through both defensive strategies and adversarial
-thinking.
+I'm interested in the intersection of **Cybersecurity, Artificial Intelligence, Agentic Systems, and secure system architecture**.
 
----
+I like understanding systems from both sides:
 
-## 🧠 What I'm Interested In
+**how they're built → how they fail → how they can be secured**
 
-🔐 **Cybersecurity**  
-Exploring secure systems, threat intelligence, authentication, access control,
-and security-focused applications.
-
-🤖 **Artificial Intelligence**  
-Building AI-powered systems and exploring practical applications of RAG,
-computer vision, and intelligent automation.
-
-🧩 **Agentic AI**  
-Interested in how autonomous AI agents reason, interact with tools, and make
-decisions — and how these systems can be secured.
-
-🛡️ **AI Security**  
-Exploring security challenges introduced by intelligent and autonomous
-systems, with a focus on making AI systems more trustworthy.
-
-⚙️ **Secure Systems**  
-Interested in designing systems where security, reliability, and trust are
-considered from the beginning rather than added later.
+```text
+build → break → understand → secure → repeat
+```
 
 ---
 
-## 🛠️ Technologies I've Worked With
+## What I'm Into
 
-### Languages
+ **Cybersecurity**
+Security engineering, threat intelligence, adversarial thinking, and secure systems.
 
-`Python` · `Java` · `C` · `C++` · `JavaScript` · `SQL`
+**Artificial Intelligence**
+RAG, computer vision, intelligent automation, and AI-powered applications.
 
-### Web & Backend
+**Agentic AI**
+Autonomous systems, tool-using agents, intent, trust, and runtime security.
 
-`React.js` · `HTML5` · `CSS3` · `Tailwind CSS` · `Vite`  
-`FastAPI` · `Node.js` · `Express.js` · `REST APIs`
+**BCI Security**
+Exploring security, trust, and integrity in Brain-Computer Interfaces.
 
-### AI
-
-`LangChain` · `Hugging Face` · `OpenCV`  
-`RAG` · `Computer Vision` · `AI Agents`
-
-### Cybersecurity
-
-`Authentication` · `RBAC` · `Threat Intelligence` · `AI Security`
-
-### Databases
-
-`MySQL` · `MongoDB`
-
-### Tools & Infrastructure
-
-`Git` · `GitHub` · `Docker` · `Linux` · `WSL2` · `VS Code` · `Postman`
-
-### Cloud & Hardware
-
-`Vercel` · `Render` · `NVIDIA Jetson Orin Nano`
+**Systems**
+Backend engineering, APIs, architecture, Linux, and infrastructure.
 
 ---
 
-## 🚀 What I'm Currently Exploring
-
-I'm currently going deeper into the security of **intelligent and autonomous
-systems**.
-
-My areas of exploration include:
-
-- 🔐 AI Security
-- 🤖 Agentic AI Security
-- 🧠 Secure AI Systems
-- 🛡️ Cybersecurity & Adversarial Thinking
-- ⚙️ System Architecture & Backend Engineering
-- 🔬 BCI Security
-- 🌐 Emerging AI Technologies
-
-I'm particularly interested in the question:
-
-> **How do we build intelligent systems that are capable, secure, and
-> trustworthy?**
-
----
-
-## 🏆 Achievements
-
-### 🥇 Unisys Innovation Program — Year 17
-**Round 2**
-
-### 🏆 SheBuilds Chennai × CCCL Hack — Code & Challenge 3.0
-**Top 50 Finalist · 700+ submissions**
-
-### 🏆 CAD 2.0 — AI Innovation Competition
-**Top 10 Finalist**
-
-### 🏆 Hack the Cosmos 2025 — SRM Hackathon
-**Top 50**
-
-### 🚀 Smart India Hackathon 2025
-**Top 250 · 1000+ teams · Round 2**
-
-### 🏆 St. Joseph's College 24-Hour Hackathon
-**Top 75 · 2000+ participants**
-
----
-
-## 🎓 Education
-
-**B.Tech — Computer Science Engineering (Cybersecurity)**  
-SRM Institute of Science and Technology  
-**2024 – 2028 · CGPA: 9.37**
-
----
-
-## 💼 Experience
-
-**AI/ML Virtual Intern**  
-AICTE × EduSkills × Google for Developers  
-*Apr 2026 – Jun 2026*
-
-**Developer Intern**  
-Dikshi Technologies  
-*Jun 2026 – Jul 2026*
-
----
-
-## 📚 I'm Always Learning
-
-I don't believe in simply collecting technologies.
-
-I want to understand the **fundamentals behind the systems I build** —
-how they work, why they work, where they fail, and how they can be made more
-secure.
-
-I'm continuously strengthening my foundations in:
-
-**Computer Science · Cybersecurity · AI · Backend Systems · System Design ·
-Agentic AI · AI Security**
-
----
-
-## 🌱 A Little More About Me
-
-I'm a curious learner who enjoys taking complex problems apart, understanding
-the underlying system, and building solutions from the ground up.
-
-I value:
-
-**Curiosity · Problem Solving · Adaptability · Collaboration · Continuous Learning**
-
-My long-term goal is to become a strong cybersecurity professional capable of
-working at the intersection of **security and intelligent systems**.
-
----
-
-## 📫 Let's Connect
+## Technologies
 
 <p align="left">
-  <a href="https://github.com/Oviya-Babu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:oviyab2k7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" height="48" alt="C"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="48" alt="JavaScript"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="48" alt="SQL"/></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="48" alt="React"/></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js"/></a>
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="48" alt="Express"/></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI"/></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS"/></a>
+<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" height="48" alt="PyTorch"/></a>
+<a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" height="48" alt="OpenCV"/></a>
+<a href="https://huggingface.co/"><img src="https://skillicons.dev/icons?i=huggingface" height="48" alt="Hugging Face"/></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code"/></a>
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman"/></a>
+<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="48" alt="Vercel"/></a>
+
+</p>
+
+**Also working with:** `RAG` · `LangChain` · `AI Agents` · `REST APIs` · `Computer Vision`
+
+---
+
+## A Few Things I've Done
+
+🏆 **Top 50** — SheBuilds Chennai × CCCL Hack — Code & Challenge 3.0
+
+🏆 **Top 10** — CAD 2.0 AI Innovation Competition
+
+🏆 **Top 50** — Hack the Cosmos 2025
+
+🚀 **Round 2** — Smart India Hackathon 2025
+
+🏆 **Top 75** — St. Joseph's College 24-Hour Hackathon
+
+🥇 **Round 2** — Unisys Innovation Program, Year 17
+
+---
+
+## 🔬 Currently Exploring
+
+```text
+AI Security
+Agentic AI Security
+Trustworthy AI
+BCI Security
+Adversarial Thinking
+Secure System Architecture
+Cloud Security
+System Design
+Devops
+```
+
+The question I'm currently obsessed with:
+
+> **How do we build intelligent systems that are capable, secure, and trustworthy?**
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oviya-Babu&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oviya-Babu&layout=compact&hide_border=true" height="165"/>
 </p>
 
 ---
 
-### 💭
+## 🌐 Connect
 
-> **Build intelligently. Think adversarially. Secure by design.**
+<p align="left">
+
+<a href="https://github.com/Oviya-Babu">
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:[oviyab2k7@gmail.com](mailto:oviyab2k7@gmail.com)">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email"/>
+</a>
+
+</p>
+
+---
+
+### `// developer.exe is still under construction`
+
+**Build intelligently. Think adversarially. Secure by design.**
